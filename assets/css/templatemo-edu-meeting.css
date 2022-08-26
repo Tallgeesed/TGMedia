@@ -681,6 +681,12 @@ header
 banner
 --------------------------------------------- 
 */
+div.box{
+  padding: 10px;
+  width: 50%;
+  border-color: #f5a425;
+  
+}
 
 .main-banner {
   position: relative;
@@ -765,16 +771,15 @@ banner
 
 }
 
-
+p.projInfo{
+  size: 8px;
+}
 /*
 ---------------------------------------------
 services
 ---------------------------------------------
 */
 
-span.DCLplot a.DCLplot{
-  size: 102px;
-}
 .services {
   margin-top: -135px;
   position: absolute;
